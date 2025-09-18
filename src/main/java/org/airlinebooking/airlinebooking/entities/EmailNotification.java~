@@ -1,0 +1,4 @@
+package org.airlinebooking.airlinebooking.entities;
+
+public class EmailNotification {
+}

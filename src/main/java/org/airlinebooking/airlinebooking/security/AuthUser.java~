@@ -1,0 +1,4 @@
+package org.airlinebooking.airlinebooking.security;
+
+public class AuthUser {
+}

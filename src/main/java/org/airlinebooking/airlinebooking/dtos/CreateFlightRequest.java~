@@ -1,0 +1,4 @@
+package org.airlinebooking.airlinebooking.dtos;
+
+public class CreateFlightRequest {
+}
